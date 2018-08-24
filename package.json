@@ -1,0 +1,21 @@
+{
+  "name": "theme",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@shopify/slate-tools": "0.14.0"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "slate watch",
+    "start:dev": "slate start --env development",
+    "start:prod": "slate start --env production",
+    "deploy:dev": "slate deploy --env development",
+    "deploy:prod": "slate deploy --env production",
+    "build": "slate build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
