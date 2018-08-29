@@ -53,6 +53,9 @@
                        data-sizes="auto"
                        alt="{{ block.settings.image.alt | escape }}">
                 </div>
+                <div class="img-link">
+                  <a href="www.google.com">Get the Facts on Poison Ivy</a>
+                </div>
                 <noscript>
                   {% capture image_size %}{{ max_height }}x{% endcapture %}
                   {{ block.settings.image | img_url: image_size, scale: 2, crop: 'top' | img_tag: block.settings.image.alt, 'custom__image' }}

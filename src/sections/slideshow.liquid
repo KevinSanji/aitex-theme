@@ -84,7 +84,14 @@
                       {{ block.settings.subheading | escape }}
                     </span>
                   {% endunless %}
-                    <button type="submit" name="button">Buy Now</button>
+                    <form class="" action="/cart/add" method="post">
+                      <select name="id" id="ProductSelect-1535071409439" class="product-form__variants no-js">
+                        <option selected="selected" value="12757977366601">
+                          Default Title
+                        </option>
+                      </select>
+                      <button class="btn" type="submit" id="AddToCart-1535071409439" name="add">Buy Now</button>
+                    </form>
                   {% if block.type == 'video' %}
                     {% unless block.settings.video_type == 'background' %}
                       <div class="slideshow__video-control--play-wrapper{% if block.settings.title != blank or block.settings.subheading != blank %} slideshow__video-control--play-wrapper--push{% endif %}">
