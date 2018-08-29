@@ -84,6 +84,7 @@
                       {{ block.settings.subheading | escape }}
                     </span>
                   {% endunless %}
+                    <button type="submit" name="button">Buy Now</button>
                   {% if block.type == 'video' %}
                     {% unless block.settings.video_type == 'background' %}
                       <div class="slideshow__video-control--play-wrapper{% if block.settings.title != blank or block.settings.subheading != blank %} slideshow__video-control--play-wrapper--push{% endif %}">
