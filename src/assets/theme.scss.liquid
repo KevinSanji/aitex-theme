@@ -312,6 +312,14 @@ $grid-widescreen: 1400px;
 $grid-gutter: 30px;
 $grid-gutter-mobile: 22px;
 
+
+$mobile-width: 425px;
+@mixin mobile-query {
+  @media (max-width: #{$mobile-width}) {
+    @content;
+  }
+}
+
 $small: 'small';
 $medium: 'medium';
 $medium-down: 'medium-down';
@@ -6182,7 +6190,7 @@ $toolbar-height-small: 46px;
 
 @media screen and (max-width: 600px) {
   .img-link a {
-    font-size: .7rem;
+    font-size: .6rem;
   }
 }
 
@@ -6229,6 +6237,7 @@ $toolbar-height-small: 46px;
 }
 
 .custom__item-inner--image {
+  border-radius: 3px;
   background-color: #000;
   position: relative;
   margin: 0 auto;
@@ -6240,6 +6249,90 @@ $toolbar-height-small: 46px;
   display: block;
   position: absolute;
   top: 0;
+}
+
+.custom__title {
+  color: #006b31;
+  font-size: 2rem;
+  @include media-query($small) {
+    font-size: 1.5rem;
+  }
+  @include mobile-query {
+    font-size: 1rem;
+  }
+
+}
+
+/*====== Poison Ivy Info Page ======*/
+
+.info-title {
+  color: #006b31;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.info-intro,
+.chart-row {
+  display: flex;
+}
+
+.info-intro {
+  @include media-query($small) {
+    flex-wrap: wrap;
+  }
+}
+
+.intro-container {
+  width: 50%;
+  @include media-query($small) {
+    width: 100%;
+  }
+}
+
+.intro-container:nth-of-type(1) {
+  padding-right: 15px;
+  @include media-query($small) {
+    margin-bottom: 15px;
+    padding-right: 0;
+  }
+}
+
+.chart-row {
+  flex-wrap: wrap;
+  margin-bottom: 35px;
+  padding: 15px;
+  border: 1px solid #006b31;
+  border-radius: 2px;
+}
+
+.info-intro {
+  margin-bottom: 30px;
+}
+
+.plant-info {
+  flex: 1.5;
+  margin-bottom: 30px;
+}
+
+.plant-info h3 {
+  color: #006b31;
+}
+
+.plant-images {
+  display: flex;
+}
+
+.plant-image {
+  flex: 1;
+}
+
+.plant-map {
+  flex: 1.5;
+}
+
+.plant-map img {
+  width: 100%;
 }
 
 /*================ Flex item alignment ================*/

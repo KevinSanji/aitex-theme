@@ -1,77 +1,56 @@
-Deploy error @ Mon Aug 27 2018 19:05:28 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.
-19:05:28 [development]Asset Perform Update to assets/theme.scss at host aitex.myshopify.com
-	Status: 422 Unprocessable Entity
-	Errors: Cannot overwrite generated asset 'assets/theme.scss'.
- 
-Deploy complete @ Tue Aug 28 2018 16:35:55 GMT-0700 (PDT). added/changed 1 file(s): sections/slideshow.liquid.
-Deploy error @ Tue Aug 28 2018 16:39:20 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.
-16:39:20 [development]Asset Perform Update to assets/theme.scss at host aitex.myshopify.com
-	Status: 422 Unprocessable Entity
-	Errors: Cannot overwrite generated asset 'assets/theme.scss'.
- 
-Deploy error @ Tue Aug 28 2018 16:41:19 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.
-16:41:19 [development]Asset Perform Update to assets/theme.scss at host aitex.myshopify.com
-	Status: 422 Unprocessable Entity
-	Errors: Cannot overwrite generated asset 'assets/theme.scss'.
- 
-Deploy complete @ Tue Aug 28 2018 16:47:12 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 16:49:31 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 16:50:57 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 16:51:08 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 17:36:11 GMT-0700 (PDT). added/changed 1 file(s): sections/featured-product.liquid.
-Deploy complete @ Tue Aug 28 2018 17:46:19 GMT-0700 (PDT). added/changed 1 file(s): sections/featured-product.liquid.
-Deploy complete @ Tue Aug 28 2018 17:46:45 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 17:47:00 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 17:48:39 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 17:51:14 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 17:54:51 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 18:03:57 GMT-0700 (PDT). added/changed 1 file(s): sections/featured-product.liquid.
-Deploy complete @ Tue Aug 28 2018 18:15:32 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 18:23:16 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 18:25:05 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 18:25:11 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 18:30:24 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 18:31:16 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 18:33:03 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 18:37:08 GMT-0700 (PDT). added/changed 1 file(s): templates/info-page.liquid.
-Deploy complete @ Tue Aug 28 2018 18:37:42 GMT-0700 (PDT). removed 1 file(s): templates/info-page.liquid.
-Deploy complete @ Tue Aug 28 2018 18:37:54 GMT-0700 (PDT). added/changed 1 file(s): templates/page.poisonivy.liquid.
-Deploy complete @ Tue Aug 28 2018 18:39:02 GMT-0700 (PDT). added/changed 1 file(s): templates/page.poisonivy.liquid.
-Deploy complete @ Tue Aug 28 2018 18:39:33 GMT-0700 (PDT). added/changed 1 file(s): templates/page.poisonivy.liquid.
-Deploy complete @ Tue Aug 28 2018 18:44:29 GMT-0700 (PDT). removed 1 file(s): templates/page.poisonivy.liquid.
-Deploy complete @ Tue Aug 28 2018 20:04:43 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:05:40 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:06:16 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:06:19 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:07:59 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:12:14 GMT-0700 (PDT). added/changed 1 file(s): sections/header.liquid.
-Deploy complete @ Tue Aug 28 2018 20:15:03 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:18:15 GMT-0700 (PDT). added/changed 1 file(s): sections/featured-product.liquid.
-Deploy complete @ Tue Aug 28 2018 20:18:59 GMT-0700 (PDT). added/changed 1 file(s): sections/featured-product.liquid.
-Deploy complete @ Tue Aug 28 2018 20:21:16 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:21:19 GMT-0700 (PDT). added/changed 2 file(s): assets/theme.scss.liquid, assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:42:46 GMT-0700 (PDT). added/changed 1 file(s): sections/custom-content.liquid.
-Deploy complete @ Tue Aug 28 2018 20:46:43 GMT-0700 (PDT). added/changed 1 file(s): sections/custom-content.liquid.
-Deploy complete @ Tue Aug 28 2018 20:48:20 GMT-0700 (PDT). added/changed 1 file(s): sections/custom-content.liquid.
-Deploy complete @ Tue Aug 28 2018 20:48:35 GMT-0700 (PDT). added/changed 1 file(s): sections/custom-content.liquid.
-Deploy complete @ Tue Aug 28 2018 20:49:11 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 20:49:40 GMT-0700 (PDT). added/changed 1 file(s): sections/custom-content.liquid.
-Deploy complete @ Tue Aug 28 2018 20:50:59 GMT-0700 (PDT). added/changed 1 file(s): sections/custom-content.liquid.
-Deploy complete @ Tue Aug 28 2018 20:51:04 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:00:06 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:00:52 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:02:35 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:04:24 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:05:20 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:10:39 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:13:56 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:14:16 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:20:53 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:22:43 GMT-0700 (PDT). added/changed 1 file(s): sections/slideshow.liquid.
-Deploy complete @ Tue Aug 28 2018 21:24:04 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Tue Aug 28 2018 21:25:16 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Wed Aug 29 2018 13:09:40 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
-Deploy complete @ Wed Aug 29 2018 13:43:25 GMT-0700 (PDT). added/changed 1 file(s): sections/slideshow.liquid.
-Deploy complete @ Wed Aug 29 2018 13:44:38 GMT-0700 (PDT). added/changed 1 file(s): sections/slideshow.liquid.
-Deploy complete @ Wed Aug 29 2018 13:46:54 GMT-0700 (PDT). added/changed 1 file(s): sections/slideshow.liquid.
-Deploy complete @ Wed Aug 29 2018 13:48:59 GMT-0700 (PDT). added/changed 1 file(s): sections/slideshow.liquid.
+Deploy complete @ Wed Aug 29 2018 14:17:56 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 14:21:44 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 14:22:43 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 14:24:51 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 14:25:16 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 14:41:17 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 14:41:44 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:06:02 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:11:46 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:15:50 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:18:54 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:21:44 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:27:28 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:28:05 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:29:04 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:29:41 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:30:31 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:31:00 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:33:21 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:38:04 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:38:40 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:39:07 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:40:27 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:40:52 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:44:10 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 15:45:51 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 15:57:14 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:02:34 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 16:10:49 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 16:11:17 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 16:11:34 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 16:12:11 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 16:17:03 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:18:48 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:20:59 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:22:22 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:26:44 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 16:27:18 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:31:30 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:34:05 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:43:52 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 16:45:18 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:46:01 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 16:50:49 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:03:15 GMT-0700 (PDT). added/changed 1 file(s): sections/custom-content.liquid.
+Deploy complete @ Wed Aug 29 2018 17:05:23 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:11:26 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:12:00 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:14:28 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 17:15:43 GMT-0700 (PDT). added/changed 1 file(s): templates/page.info.liquid.
+Deploy complete @ Wed Aug 29 2018 17:15:52 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:16:59 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:17:19 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:18:05 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:24:37 GMT-0700 (PDT). added/changed 1 file(s): assets/theme.scss.liquid.
+Deploy complete @ Wed Aug 29 2018 17:26:53 GMT-0700 (PDT). added/changed 1 file(s): sections/custom-content.liquid.

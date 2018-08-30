@@ -46,6 +46,7 @@
                 <div style="padding-top:{{ 1 | divided_by: block.settings.image.aspect_ratio | times: 100}}%;">
                   <img id="{{ img_id }}"
                        class="custom__image lazyload js"
+                       style="border-radius: 3px;"
                        src="{{ block.settings.image | img_url: '300x300' }}"
                        data-src="{{ img_url }}"
                        data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
@@ -54,7 +55,7 @@
                        alt="{{ block.settings.image.alt | escape }}">
                 </div>
                 <div class="img-link">
-                  <a href="www.google.com">Get the Facts on Poison Ivy</a>
+                  <a href="/pages/poison-ivy-info">Get the Facts on Poison Ivy</a>
                 </div>
                 <noscript>
                   {% capture image_size %}{{ max_height }}x{% endcapture %}
@@ -66,7 +67,7 @@
             {% when 'text' %}
               <div class="medium-up--text-{{ block.settings.align_text }}">
                 {% if block.settings.title != blank %}
-                  <h4 class="h3">{{ block.settings.title | escape }}</h4>
+                  <h4 class="h3 custom__title">{{ block.settings.title | escape }}</h4>
                 {% endif %}
                 {% if block.settings.text != blank %}
                   <div class="rte-setting rte">{{ block.settings.text }}</div>
